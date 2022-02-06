@@ -1,7 +1,7 @@
 {
 	"site": {
 		"port": 8080,
-		"ip": "codingarea-tracker.herokuapp.com"
+		"ip": "0.0.0.0"
 	},
 	"rates": {
 		"pingAll": 3000,
