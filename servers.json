@@ -8,5 +8,10 @@
 		"name": "Lostify",
 		"ip": "lostify.net",
 		"type": "PC"
+	},
+	{
+		"name": "TheFabo",
+		"ip": "thefabo.de",
+		"type": "PC"
 	}
 ]
