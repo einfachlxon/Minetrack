@@ -9,4 +9,9 @@
 		"ip": "gommehd.net",
 		"type": "PC"
 	},
+	{
+		"name": "Lostify",
+		"ip": "lostify.de",
+		"type": "PC"
+	}
 ]
