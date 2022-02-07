@@ -13,5 +13,15 @@
 		"name": "TheFabo",
 		"ip": "thefabo.de",
 		"type": "PC"
-	}
+	},
+	{
+		"name": "Banko",
+		"ip": "banko.tv",
+		"type": "PC"
+	},
+	{
+		"name": "HGLabor",
+		"ip": "HGLabor.de",
+		"type": "PC"
+	},
 ]
