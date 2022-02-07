@@ -3,5 +3,10 @@
 		"name": "Coding-Area",
 		"ip": "coding-area.net",
 		"type": "PC"
-	}
+	},
+	{
+		"name": "GommeHD",
+		"ip": "gommehd.net",
+		"type": "PC"
+	},
 ]
