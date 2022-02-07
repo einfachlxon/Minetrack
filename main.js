@@ -6,6 +6,8 @@ const logger = require('./lib/logger')
 const config = require('./config')
 const servers = require('./servers')
 
+const PORT = process.env.PORT || 8080
+
 const app = new App()
 
 servers.forEach((server, serverId) => {
