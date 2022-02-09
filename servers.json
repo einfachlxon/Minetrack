@@ -24,6 +24,11 @@
 		"name": "HGLabor",
 		"ip": "HGLabor.de",
 		"type": "PC"
+	},
+	{
+		"name": "UtopiaMc",
+		"ip": "UtopiaMC.de",
+		"type": "PC"
 	}
-
+	
 ]
