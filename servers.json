@@ -29,6 +29,11 @@
 		"name": "UtopiaMc",
 		"ip": "UtopiaMC.de",
 		"type": "PC"
+	},
+	{
+		"name": "Brenntasa",
+		"ip": "brenntasa.net",
+		"type": "PC"
 	}
 	
 ]
